@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Set Syntax: Go"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 154.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Turner/Desktop/Programming/RealPortfolio/turnerve.github.io/discordtheme.css",
+		"/C/Users/Turner/AppData/Roaming/.minecraft/resourcepacks/Turner Resource Pack/pack.mcmeta",
+		"/C/Users/Turner/Desktop/Portfolio2018/index.html",
+		"/C/Users/Turner/Desktop/oldfolio/jordan.html",
+		"/C/Users/Turner/Desktop/oldfolio/jordan.css",
+		"/C/Users/Turner/Desktop/oldfolio/mod.js",
+		"/C/Users/Turner/Desktop/oldfolio/test.html",
+		"/C/Users/Turner/Desktop/oldfolio/index.html",
+		"/C/Users/Turner/Desktop/oldfolio/friendlist/Public/js/main.js",
+		"/C/Users/Turner/Desktop/oldfolio/friendlist/main.css",
+		"/C/Users/Turner/Desktop/oldfolio/friendlist/index.html",
+		"/C/Users/Turner/Desktop/oldfolio.html",
+		"/C/Users/Turner/Desktop/oldfolio/css/grayscale.css",
+		"/C/Users/Turner/Desktop/1150/parallax-template/turnerve.github.io/index.html",
+		"/C/Users/Turner/Desktop/1150/WorkoutApp/heroku_workoutlog/WorkoutLogServer/Procfle",
+		"/C/Users/Turner/Desktop/1150/WorkoutApp/WorkoutLog/client/main.css",
+		"/C/Users/Turner/Desktop/1150/WorkoutApp/WorkoutLog/client/index.html",
+		"/C/Users/Turner/Desktop/1150/WorkoutApp/WorkoutLog/client/assets/css/main.css",
+		"/C/Users/Turner/Desktop/1150/WorkoutApp/WorkoutLog/client/assets/css/styles.css",
+		"/C/Users/Turner/Desktop/1150/parallax-template/js/init.js",
+		"/C/Users/Turner/Desktop/1150/parallax-template/Codepen2k.PNG",
+		"/C/Users/Turner/Desktop/1150/parallax-template/background1.jpg",
+		"/C/Users/Turner/Desktop/1150/parallax-template/background3.jpg",
+		"/C/Users/Turner/Desktop/1150/parallax-template/background2.jpg",
+		"/C/Users/Turner/Desktop/1150/Portfolio/main.css",
+		"/C/Users/Turner/Desktop/1150/Portfolio/css/bootstrap.css",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/core/client/views/header.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/core/server/views/layout.server.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/shoppinglists/client/views/form-shoppinglist.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/shoppinglists/client/views/view-shoppinglist.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/shoppinglists/client/views/list-shoppinglists.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/core/client/css/core.css",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/core/client/views/home.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/modules/core/server/views/index.server.view.html",
+		"/C/Users/Turner/Desktop/TeamBJT/Team_JS_BST/public/lib/bootstrap/dist/css/bootstrap-theme.css",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/core/client/views/header.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/core/server/views/layout.server.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/core/client/views/home.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/config/articles.client.config.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/public/lib/bootstrap/dist/css/bootstrap-theme.css",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/client/controllers/shoppinglists.client.controller.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/client/views/form-shoppinglist.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/client/css/main.css",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/server/models/shoppinglist.server.model.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/client/views/list-shoppinglists.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/client/views/view-shoppinglist.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/shoppinglists/server/controllers/shoppinglists.server.controller.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/controllers/articles.client.controller.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/views/create-article.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/views/view-article.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/views/list-articles.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/core/server/views/test.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/views/edit-article.client.view.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/core/client/css/core.css",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/public/lib/bootstrap/dist/js/npm.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/views/new.html",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/public/lib/bootstrap/js/newmodal.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/core/client/views/newmodal.js",
+		"/C/Users/Turner/Desktop/TeamBJTProject/Team_JS_BST/modules/articles/client/config/articles.client.routes.js",
+		"/C/Users/Turner/Desktop/1150/TeamGitLab1/TeamGitLab1/index.html",
+		"/C/Users/Turner/Desktop/1150/TeamGitLab1/TeamGitLab1/main.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/core/client/views/header.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/core/client/css/core.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/core/client/views/home.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/core/server/views/layout.server.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/public/lib/bootstrap/dist/css/bootstrap-theme.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/public/lib/bootstrap/dist/css/bootstrap.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/chat/client/views/chat.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/public/lib/bootstrap/dist/css/main.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/employees/client/controllers/employees.client.controller.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/uploads/client/views/view-upload.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/uploads/client/views/form-upload.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/uploads/client/controllers/uploads.client.controller.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/uploads/server/routes/uploads.server.routes.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/uploads/server/models/upload.server.model.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/uploads/server/controllers/uploads.server.controller.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/app.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/reducers/auth_reducer.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/actions/index.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/video/video.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/router.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/index.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/style/style.css",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/auth/signin.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/video/video-detail.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/video/search-bar.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/index.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/reducers/index.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/actions/types.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/list/new-list-item.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/Nav.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/package.json",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/.babelrc",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/webpack.config.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/.gitignore",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/index.html",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/models/user.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/reducers/reducer_selectedband.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/reducers/reducer_bands.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/containers/BandList.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/1_JSXIntro.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/5_ChildComponentsIntro.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/3_PropsIntro.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/4_StateIntro.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/client/src/components/2_ComponentsIntro.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/Config.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/package.json",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/.gitignore",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/controllers/auth.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/BucketListApp/server/services/passport.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/schedulings/client/views/form-scheduling.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/public/lib/bootstrap/less/jumbotron.less",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/schedulings/client/controllers/schedulings.client.controller.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/users/client/views/authentication/signin.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/articles/client/views/admin/list-articles.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/needs/server/controllers/needs.server.controller.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/public/lib/bootstrap/dist/css/bootstrap-nav.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/config/env/production.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/.gitignore",
+		"/C/Users/Turner/Desktop/1150/mean-js/config/assets/production.js",
+		"/C/Users/Turner/Desktop/1150/mean-js/package.json",
+		"/C/Users/Turner/Desktop/1150/mean-js/Procfile",
+		"/C/Users/Turner/Desktop/1150/mean-js/modules/users/client/views/authentication/authentication.client.view.html",
+		"/C/Users/Turner/Desktop/1150/mean-js/config/env/default.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/herokuworkoutlog/workoutlogweb/app.js",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/csslibrary/0.14css_architecture.html",
+		"/C/Users/Turner/Desktop/1150/ClassProjects/csslibrary/0.14css_architecture.css",
+		"/C/Users/Turner/Desktop/1150/mean-js/config/assets/development.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
